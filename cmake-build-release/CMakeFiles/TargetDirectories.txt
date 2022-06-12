@@ -1,3 +1,0 @@
-/home/david/projects/W65C02EMU/cmake-build-release/CMakeFiles/WDC65C02.dir
-/home/david/projects/W65C02EMU/cmake-build-release/CMakeFiles/edit_cache.dir
-/home/david/projects/W65C02EMU/cmake-build-release/CMakeFiles/rebuild_cache.dir
