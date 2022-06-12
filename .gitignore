@@ -33,7 +33,7 @@
 
 bin
 **/bin/**
-!deps/bin/**
+!deps/bin
 cmake-build-*
 **/cmake-*/**
 **/CMakeCache.txt
